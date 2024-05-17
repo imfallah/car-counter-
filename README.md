@@ -7,6 +7,8 @@
 
 
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
 <img src="https://img.shields.io/badge/language-python-blue?style"/><img src="https://img.shields.io/github/stars/jokernets/face-plot"/><img src="https://img.shields.io/github/forks/jokernets/face-plot"/>
@@ -198,8 +200,14 @@ cap.release()
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## More Examples and Showcase 👑
+<img src="https://github.com/jokernets/car-counter-/blob/main/public/car.png" width=500 height=400>
+<img src="https://github.com/jokernets/car-counter-/blob/main/public/cargif.gif" width=500 height=400>
 
-### Video image of the APP 📺
+
+
+### Video image of the APP 📺 [Watching the video](https://github.com/jokernets/car-counter-/blob/main/public/via.mp4)
+
+
 
 
 # `𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐌𝐞`🎈🎃
